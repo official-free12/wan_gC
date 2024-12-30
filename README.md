@@ -1,0 +1,6 @@
+# 【完美版】本店修复完美版区块宠物/区块链/区块狗系统，送免费终身维护
+
+新势力源码精品铺子<br>2024版本区块宠物/名酒汇<br>该版本为：修复完美版区块宠物<br>新版本、新界面、抢购池系统、<br>大量BUG修复、系统稳定性更优<br>example.com.3（2024-08-22）删除重复的初始化数据库，修复用户反馈的已知bug<br>example.com.2（2024-07-15）修复权限问题导致下载页无法下载的问题<br>example.com.1（2024-06-02）更新依赖插件，优化系统流畅度<br>example.com.7（2024-05-07）修复数据库回调透传参数为空的问题<br>example.com.6（2024-04-20）删除多余图片，精简网站<br>example.com.5（2024-03-26）更新插件三方依赖<br>名酒汇：<br>http://example.com/mobile/passport/example.com<br>13391284931<br>123456<br>http://example.com/manage/passport/example.com<br>admin1<br>12345600<br>重要提示（买前须知）：<br>1、本店所售源码具有独有性<br>本店所售源码具有独有性，在其他店购买的本店泄露出去的残缺源码一律不提供技术服务和后续更新服务，购买前请认准本店店铺：新势力源码。<br>2、本店源码均由店主亲测后发布，每个演示站都是店主亲自搭建，部分配有详细安装说明（文字或视频教程）<br>3、因源码具有可复制性，一经售出，非质量问题谢绝任何形式的退换货，谢谢理解，如在本店购买的源码有任何源码本身的BUG，本店保证一律免费修复，直至客户满意。<br>4、本店拥有技术团队，可提供源码搭建一条龙服务，源码二开服务，搭建、封装，有需求请联系QQ客服。<br>购买须知：<br>本店源码发货途径为：百度网盘、QQ传输<br>本商品仅限源码，如需搭建安装服务请拍下源码的同时选择搭建服务即可联系客服进行搭建。<br>所有功能以测试网址为准<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/7I9UH" style="color: red;">https://mega-file.org/7I9UH</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
